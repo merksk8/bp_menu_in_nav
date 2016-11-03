@@ -2,7 +2,7 @@
 Function to add buddypress menu to navigation
 
 # How to use
-1. Copy this code into bp-custom.php
+1. Copy the code of bp_menu_nav into your bp-custom.php
 2. (optional) Edit the config array with your values
 3. (optional) Edit the names array with your values
 4. Save and enjoy
