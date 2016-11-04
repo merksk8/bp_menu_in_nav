@@ -1,4 +1,11 @@
 <?php
+
+/*
+Code by Merksk8
+GitHub=> https://github.com/merksk8/
+Website=> https://codecomas.com
+*/
+
 add_filter( 'wp_nav_menu_items', 'my_nav_menu_profile_link', 10, 2);
 function my_nav_menu_profile_link($menu, $args) {      
 
